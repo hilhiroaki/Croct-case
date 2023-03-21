@@ -4,7 +4,7 @@
 This documentation is for developers that want to integrate Croct into an application.
 
 ## What is Croct?
-Croct is a Software as a Service (SaaS) platform that provides technology for real-time personalization.
+Croct is a **Software as a Service** (SaaS) platform that provides technology for real-time personalization.
 
 ### What We Do
 We provide unified and managed **customer data** for marketers, product managers, and software engineers.
